@@ -1,6 +1,6 @@
-# yadi
+# yadw
 
-Yet Another Docker Interface
+Yet Another Docker Wrapper
 
 This project was bootstrapped with [TSPx](https://github.com/joeflateau/tspx).
 
